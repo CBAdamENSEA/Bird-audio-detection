@@ -3,7 +3,7 @@ C:/Users/cheik/OneDrive/Documents/Rangement/Internship/STM32CubeF7-master/Projec
 C:/Users/cheik/OneDrive/Documents/Rangement/Internship/STM32CubeF7-master/Projects/STM32746G-Discovery/Examples/BSP/Src/main.c:553:6:recording_button	8	static
 C:/Users/cheik/OneDrive/Documents/Rangement/Internship/STM32CubeF7-master/Projects/STM32746G-Discovery/Examples/BSP/Src/main.c:559:6:not_recording_button	8	static
 C:/Users/cheik/OneDrive/Documents/Rangement/Internship/STM32CubeF7-master/Projects/STM32746G-Discovery/Examples/BSP/Src/main.c:567:6:display_buttons	8	static
-C:/Users/cheik/OneDrive/Documents/Rangement/Internship/STM32CubeF7-master/Projects/STM32746G-Discovery/Examples/BSP/Src/main.c:388:5:main	168	static,ignoring_inline_asm
+C:/Users/cheik/OneDrive/Documents/Rangement/Internship/STM32CubeF7-master/Projects/STM32746G-Discovery/Examples/BSP/Src/main.c:388:5:main	160	static,ignoring_inline_asm
 C:/Users/cheik/OneDrive/Documents/Rangement/Internship/STM32CubeF7-master/Projects/STM32746G-Discovery/Examples/BSP/Src/main.c:681:9:CheckForUserInput	8	static
 C:/Users/cheik/OneDrive/Documents/Rangement/Internship/STM32CubeF7-master/Projects/STM32746G-Discovery/Examples/BSP/Src/main.c:699:6:HAL_GPIO_EXTI_Callback	8	static
 C:/Users/cheik/OneDrive/Documents/Rangement/Internship/STM32CubeF7-master/Projects/STM32746G-Discovery/Examples/BSP/Src/main.c:1235:6:HAL_UART_RxCpltCallback	8	static
