@@ -1,0 +1,9 @@
+C:/Users/cheik/OneDrive/Documents/Rangement/Internship/STM32CubeF7-master/Projects/STM32746G-Discovery/Examples/BSP/Src/audio_play.c:662:17:GetData	16	static
+../../../../../../../Drivers/CMSIS/Include/core_cm7.h:2491:22:SCB_CleanDCache_by_Addr.constprop	0	static,ignoring_inline_asm
+C:/Users/cheik/OneDrive/Documents/Rangement/Internship/STM32CubeF7-master/Projects/STM32746G-Discovery/Examples/BSP/Src/audio_play.c:371:20:AUDIO_Start	24	static
+C:/Users/cheik/OneDrive/Documents/Rangement/Internship/STM32CubeF7-master/Projects/STM32746G-Discovery/Examples/BSP/Src/audio_play.c:400:9:AUDIO_Process	16	static
+C:/Users/cheik/OneDrive/Documents/Rangement/Internship/STM32CubeF7-master/Projects/STM32746G-Discovery/Examples/BSP/Src/audio_play.c:177:6:AudioPlay_demo	344	static
+C:/Users/cheik/OneDrive/Documents/Rangement/Internship/STM32CubeF7-master/Projects/STM32746G-Discovery/Examples/BSP/Src/audio_play.c:467:9:AUDIO_MFCC	72	static
+C:/Users/cheik/OneDrive/Documents/Rangement/Internship/STM32CubeF7-master/Projects/STM32746G-Discovery/Examples/BSP/Src/audio_play.c:694:6:BSP_AUDIO_OUT_TransferComplete_CallBack	0	static
+C:/Users/cheik/OneDrive/Documents/Rangement/Internship/STM32CubeF7-master/Projects/STM32746G-Discovery/Examples/BSP/Src/audio_play.c:708:6:BSP_AUDIO_OUT_HalfTransfer_CallBack	0	static
+C:/Users/cheik/OneDrive/Documents/Rangement/Internship/STM32CubeF7-master/Projects/STM32746G-Discovery/Examples/BSP/Src/audio_play.c:722:6:BSP_AUDIO_OUT_Error_CallBack	8	static

@@ -1,0 +1,6 @@
+C:/Users/cheik/OneDrive/Documents/Rangement/Internship/STM32CubeF7-master/Projects/STM32746G-Discovery/Examples/BSP/Src/audio_rec.c:78:6:AudioRec_demo	40	static
+C:/Users/cheik/OneDrive/Documents/Rangement/Internship/STM32CubeF7-master/Projects/STM32746G-Discovery/Examples/BSP/Src/audio_rec.c:233:6:AudioRec	32	static
+C:/Users/cheik/OneDrive/Documents/Rangement/Internship/STM32CubeF7-master/Projects/STM32746G-Discovery/Examples/BSP/Src/audio_rec.c:311:6:AudioPlay	8	static
+C:/Users/cheik/OneDrive/Documents/Rangement/Internship/STM32CubeF7-master/Projects/STM32746G-Discovery/Examples/BSP/Src/audio_rec.c:354:6:BSP_AUDIO_IN_TransferComplete_CallBack	0	static
+C:/Users/cheik/OneDrive/Documents/Rangement/Internship/STM32CubeF7-master/Projects/STM32746G-Discovery/Examples/BSP/Src/audio_rec.c:365:6:BSP_AUDIO_IN_HalfTransfer_CallBack	0	static
+C:/Users/cheik/OneDrive/Documents/Rangement/Internship/STM32CubeF7-master/Projects/STM32746G-Discovery/Examples/BSP/Src/audio_rec.c:376:6:BSP_AUDIO_IN_Error_CallBack	8	static
